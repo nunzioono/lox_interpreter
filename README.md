@@ -1,11 +1,11 @@
 # lox_interpreter
 
-This repository is a wrapper for a brilliant tutorial written on !(link)[https://www.craftinginterpreters.com/contents.html].
+This repository is a wrapper for a brilliant tutorial written on ![link](https://www.craftinginterpreters.com/contents.html).
 It aims to teach general programming languages architecture while building an interpreter for a new language called Lox.
 
 ## Lox has
 
-As this is a tutorial implementation you can find already the author implementation on !(github)[https://github.com/munificent/craftinginterpreters.git] for the Lox language. Since the aim of the tutorial is to teach the architecture not to build a strong structure/rich of feature language the interpreter contains few essential features like:
+As this is a tutorial implementation you can find already the author implementation on ![github](https://github.com/munificent/craftinginterpreters.git) for the Lox language. Since the aim of the tutorial is to teach the architecture not to build a strong structure/rich of feature language the interpreter contains few essential features like:
 
 - Supports only 4 primitive types: Booleans, Numbers, Strings and Nil.
 - Supports basic expressions: arithmetical and logical lines to be evaluated by the interpreter.
