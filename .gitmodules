@@ -1,0 +1,6 @@
+[submodule "java_lox_interpreter"]
+	path = java_lox_interpreter
+	url = https://github.com/nunzioono/java_lox_interpreter.git
+[submodule "c_lox_interpreter"]
+	path = c_lox_interpreter
+	url = https://github.com/nunzioono/c_lox_interpreter.git
